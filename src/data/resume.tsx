@@ -5,7 +5,7 @@ import { HomeIcon } from "lucide-react";
 export const DATA = {
   name: "Shaheer",
   initials: "MS",
-  url: "https://shaheermalik.me",
+  url: "https://shaheer-portfolio-omega.vercel.app/",
   location: "ISLAMABAD, PAKISTAN",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
@@ -106,6 +106,7 @@ export const DATA = {
         "CSS",
         "React Router",
         "Animations",
+        "GitHub Pages"
       ],
       links: [
         {
@@ -133,6 +134,7 @@ export const DATA = {
         "HTML",
         "CSS",
         "JavaScript",
+        "GitHub Pages",
         "Responsive Design",
         "Interactive Popups",
         "Smooth User Experience",
@@ -169,7 +171,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "",
+          href: "https://shaheer-portfolio-omega.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
