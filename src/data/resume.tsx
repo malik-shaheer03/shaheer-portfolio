@@ -193,7 +193,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/malik-shaheer03/DSA-Project.git",
+          href: "https://github.com/malik-shaheer03/Flight-Management-System-DSA-Project",
           icon: <Icons.github className="size-3" />,
         },
       ],
