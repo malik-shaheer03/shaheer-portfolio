@@ -3,13 +3,13 @@ import { url } from "inspector";
 import { HomeIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Shaheer",
-  initials: "MS",
+  name: "Muhammad\nShaheer\nMalik",
+  initials: "MSM",
   url: "https://shaheer-portfolio-omega.vercel.app/",
   location: "ISLAMABAD, PAKISTAN",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Developer and Front-End Enthusiast passionate about building user-friendly web experiences with modern technologies. ",
+    "A Software Developer and Front-End Enthusiast passionate about building user-friendly web experiences with modern technologies. ",
   summary:
     "I'm a passionate Software Developer specializing in Python, Java, C++, Web Development (React.js, Node.js), and Mobile App Development (Flutter). I also bring experience in Cloud Computing (AWS), Database Management (MongoDB, Firebase) and UI/UX Design (Figma).",
   avatarUrl: "/mine.png",
