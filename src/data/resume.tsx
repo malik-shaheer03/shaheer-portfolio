@@ -203,7 +203,7 @@ export const DATA = {
     {
       title: "CareerAI - Career Guidance System",
       href: "https://career-guidance-system-inky.vercel.app/",
-      dates: "Jube 2025 - Present",
+      dates: "June 2025 - Present",
       active: true,
       description:
         "This AI-driven Career Guidance System leverages expert system principles to analyze user interests, skills, and goals, providing personalized and actionable career recommendations through a dynamic web interface.",
