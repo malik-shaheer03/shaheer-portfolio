@@ -200,5 +200,28 @@ export const DATA = {
       image: "",
       video: "./flightmsDSA.mp4",
     },
+    {
+      title: "CareerAI - Career Guidance System",
+      href: "https://career-guidance-system-inky.vercel.app/",
+      dates: "Jube 2025 - Present",
+      active: true,
+      description:
+        "This AI-driven Career Guidance System leverages expert system principles to analyze user interests, skills, and goals, providing personalized and actionable career recommendations through a dynamic web interface.",
+      technologies: ["Next.js", "TypeScript", "TailwindCSS", "Framer Motion", "Expert System"],
+      links: [
+        {
+          type: "Website",
+          href: "https://career-guidance-system-inky.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/malik-shaheer03/career-guidance-system",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "./CareerAI.mp4",
+    },
   ],
 } as const;
