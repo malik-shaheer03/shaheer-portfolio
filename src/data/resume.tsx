@@ -76,7 +76,7 @@ skills: [
   work: [
     {
       company: "Pakistan Digital Authority",
-      badges: ["Full-time"],
+      badges: ["INTERNSHIP"],
       href: "",
       location: "Onsite",
       title: "Software Engineer",
@@ -92,7 +92,7 @@ skills: [
     
     {
       company: "Pakistan Television Corporation Limited",
-      badges: ["Internship"],
+      badges: ["INTERNSHIP"],
       href: "",
       location: "Onsite",
       title: "Web Developer",
