@@ -27,6 +27,7 @@ skills: [
   "Backend & APIs: Node.js, Express.js, FastAPI, REST API Design, Microservices",
   "AI & LLM Integration: Gemini AI, Prompt Engineering, LLM API Integration, NLP, TF-IDF, scikit-learn",
   "Databases & Storage: Firebase (Firestore, Auth, Storage), MongoDB, PostgreSQL, Cloudinary",
+  "Testing & Issue Management: Jira, Debugging, Issue Reproduction, Root Cause Analysis, Functional Testing, UAT",
   "Dev Tools & Workflow: Git, GitHub, CI/CD, Agile/Scrum, Figma",
   "Cloud & Deployment: Firebase Hosting, Vercel, Cloud Functions",
   ],
@@ -73,18 +74,34 @@ skills: [
   },
 
   work: [
-    // {
-    //   company: "Upwork",
-    //   href: "https://www.upwork.com/freelancers/~01817b3a08659da3c8",
-    //   badges: [],
-    //   location: "Remote",
-    //   title: "Freelancer Web Developer",
-    //   logoUrl: "/upwork.svg",
-    //   start: "2022",
-    //   end: " Ongoing",
-    //   description:
-    //     "As a full-stack web developer, I specialize in creating dynamic, responsive websites and applications using Next.js and Tailwind CSS, backed by robust databases like MongoDB and PostgreSQL. With experience on platforms like Upwork, I've successfully delivered high-quality solutions that meet clients' needs and exceed their expectations.",
-    // },
+    {
+      company: "Pakistan Digital Authority",
+      badges: ["Full-time"],
+      href: "",
+      location: "Onsite",
+      title: "Software Engineer",
+      logoUrl: "/pda.png",
+      start: "Sep 2026",
+      end: "Present",
+      description: (
+        <>
+          Contributing to the engineering and quality lifecycle of high-impact government digital platforms, working directly with stakeholders to understand, investigate, and resolve system-level concerns. Act as a technical bridge between clients and development teams by reproducing reported issues across development and staging environments and identifying their functional and workflow impact. Convert complex client-reported problems into structured Jira tickets with clear technical analysis, reproduction steps, and actionable requirements for developers. Collaborate throughout the resolution cycle from initial investigation and developer coordination to retesting fixes and validating outcomes with stakeholders. Contributing to the reliability, usability, and operational stability of <strong>PMOS</strong> and{" "} <strong>Fuel Pass</strong>, helping ensure these systems perform effectively in real-world government operations.
+        </>
+      ),
+    },
+    
+    {
+      company: "Pakistan Television Corporation Limited",
+      badges: ["Internship"],
+      href: "",
+      location: "Onsite",
+      title: "Web Developer",
+      logoUrl: "/ptv.png",
+      start: "Aug 2025",
+      end: "Oct 2025",
+      description:
+        "Completed an On-Site Internship where I Contributed to Designing, Developing, and Optimizing Web Applications. Gained Hands-On Experience in both Frontend and Backend Technologies, Improving System Functionality and User Experience. Strengthened Skills in Collaborative Development and Problem-Solving within a Professional Environment.",
+    },
 
     {
       company: "GDSC CUI",
@@ -99,20 +116,9 @@ skills: [
         "As the Co-Lead of GDSC CUI, I played a key role in leading web development initiatives, mentoring students, and organizing events to foster a collaborative learning environment. My focus was on guiding the team in building impactful projects using the latest web technologies, helping our university community grow in technical expertise and innovation.",
     },
 
-    {
-      company: "Pakistan Television Corporation Limited",
-      badges: ["Internship"],
-      href: "",
-      location: "Onsite",
-      title: "Web Developer",
-      logoUrl: "/ptv.png",
-      start: "Aug 2025",
-      end: "Oct 2025",
-      description:
-        "Completed an On-Site Internship where I Contributed to Designing, Developing, and Optimizing Web Applications. Gained Hands-On Experience in both Frontend and Backend Technologies, Improving System Functionality and User Experience. Strengthened Skills in Collaborative Development and Problem-Solving within a Professional Environment.",
-    },
   ],
-  education: [
+  education: 
+  [
     {
       school: "COMSATS Univeristy Islamabad",
       href: "https://www.comsats.edu.pk/",
@@ -122,7 +128,9 @@ skills: [
       end: "2026",
     },
   ],
-  projects: [
+
+  projects: 
+  [
     {
       title: "Traccar",
       href: "https://malik-shaheer03.github.io/Traccar/",
